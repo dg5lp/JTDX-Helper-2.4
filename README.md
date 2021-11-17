@@ -1,18 +1,16 @@
 # JTDX-Helper-2.4.3 coming soon..
 
-New in 2.4.3 vs. 2.4.1:
+News in 2.4.3 vs. 2.4.1:
 
-    Rep. Diff. field: shows the average difference of received and transmitted reports. A positive number indicates that you receive better reports as you send.
-    Repair bug ignoring stations calling CQ-DX in S/P-mode.
-    Strategy selection and the status of all checkboxes are saved and restored when starting the Helper again.
-    Supporting WSJT-X 2.5.1 and 2.5.2 too
-    Minor fixes for non-standard callsigns
+- Rep. Diff. field: shows the average difference of received and transmitted reports. A positive number indicates that you receive better reports as you send.
+- Repair bug ignoring stations calling CQ-DX in S/P-mode.
+- Strategy selection and the status of all checkboxes are saved and restored when starting the Helper again.
+- Minor fixes for non-standard callsigns
 
 2.4.1 for JTDX was not released.  
 
-New in 2.4.1 vs. 2.3:
+News in 2.4.1 vs. 2.3:
 
-- WSJTX-2.5.1 is supported
 - WSJT-X can be started with -rig=RIG-NAME extension (multiple instances are not supported)
 - New CQ-strategy "CQ+SP". If no answer for CQ received, the Helper calls CQ-calling stations
 - Optional repetition of RR73 if no 73 received at the end of the QSO. Warning if no closing 73 received.
