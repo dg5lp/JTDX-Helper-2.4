@@ -13,6 +13,7 @@ News in 2.4.1 vs. 2.3:
 
 - WSJT-X can be started with -rig=RIG-NAME extension (multiple instances are not supported)
 - New CQ-strategy "CQ+SP". If no answer for CQ received, the Helper calls CQ-calling stations
+- Calls stations sending 73 and RR73
 - Optional repetition of RR73 if no 73 received at the end of the QSO. Warning if no closing 73 received.
 - All "Auto Strategy" settings are working for incoming calls too.
 - Filter are available to exclude and prefer specific continents.
