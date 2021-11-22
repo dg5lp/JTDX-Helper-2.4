@@ -1,4 +1,4 @@
-# JTDX-Helper-2.4.3 coming soon..
+# JTDX-Helper-2.4.3
 
 News in 2.4.3 vs. 2.4.1:
 
