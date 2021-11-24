@@ -1,5 +1,9 @@
 # JTDX-Helper-2.4.3
 
+JTDX-Helper-2.4.3a
+
+Bugfix only: Rep. Diff. works now...
+
 News in 2.4.3 vs. 2.4.1:
 
 - Rep. Diff. field: shows the average difference of received and transmitted reports. A positive number indicates that you receive better reports as you send.
