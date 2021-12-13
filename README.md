@@ -1,4 +1,6 @@
-# JTDX-Helper-2.4.3
+# JTDX-Helper-2.4.4
+
+JTDX-Helper-2.4.4 supports the preliminary version JTDX-2.2.157 but does not support 2.2.155 any more.
 
 JTDX-Helper-2.4.3a
 
