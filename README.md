@@ -1,5 +1,7 @@
 # JTDX-Helper-2.4.4
 
+JTDX-Helper-2.4.5: Supports JTDX-2.2-159 and JTDX-2.2.158. No older versions are supported 
+
 JTDX-Helper-2.4.4b: Supports JTDX-2.2-158 and JTDX-2.2.157. No older versions are supported 
 
 JTDX-Helper-2.4.4a: Max. AF can be limited to 1000Hz (required for 60m band in GB)
